@@ -3,10 +3,11 @@
 
 # Introduction:
 In this project, we have a simulation for a THE MATRIX game. This game consists of a grid and on that grid we have NEO who is our main character, to win the game Neo has to carry all hostages to the telephone booth which then takes them outside the matrix but in doing so we he can face multiple scenarios like: 
-	1. Finding agents (which are his enemies)
-	2. Being late to reach a hostage (when a hostage dies he becomes an empowered agent)
-	3. Finding a pill (pills decrease damage of Neo and all hostages on the map)
-	4. Finding a pad (pads are found in pairs, Neo can take the pad to transport to the other pad)
+
+1. Finding agents (which are his enemies)
+2. Being late to reach a hostage (when a hostage dies he becomes an empowered agent)
+3. Finding a pill (pills decrease damage of Neo and all hostages on the map)
+4. Finding a pad (pads are found in pairs, Neo can take the pad to transport to the other pad)
 
 To finish the game, Neo must make sure that all the Mutated Hostages that are now agents are successfuly killed, otherwise the game won't end.
 
