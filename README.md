@@ -25,7 +25,7 @@ The grid is described in a String form. Each item will be seperated from the nex
 
 NOTE: to create pads (4,4)(0,2) they would be 4,4,0,2,0,2,4,4 in the grid string.
 
-#Neo Actions:
+# Neo Actions:
 Neo can do all of the following Actions:
 
 1. Move in any direction (can't go outside grid and cant stand on the same cell with an agent)
