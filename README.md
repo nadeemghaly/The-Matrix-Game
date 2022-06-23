@@ -49,7 +49,7 @@ Neo can do all of the following Actions:
 # Result:
 When done, The code should output the set of actions required by Neo in order to finish the game with best effeciency with respect to the chosen approach, Followed by the number of hostages that died during this game simulation, follow by number of agents killed, followed by the number of game instances inspected to find this result.
 
-## EXAMPLE:
+### EXAMPLE:
 up,carry,left,takePill,left,carry,up,drop;0;2;224
 Means that none of the hostages died, but Neo had to kill 2 Agents, and we had to check 224 game instances to find this answer.
 
