@@ -20,8 +20,8 @@ public class Main {
 
 		
 		String gridTest= genGrid();
-		System.out.println(gridTest);
-		System.out.println(solve(gridTest,"UC",true));  
+		
+		System.out.println(solve(grid0,"UC",true));  
 		
 	}
 	
